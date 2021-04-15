@@ -5,4 +5,4 @@ This academic project aims at creating a backend chat service, where clients (pe
 
 
 
-know more about this project at https://www.engenheiros.pt/~oe84598/4.2-Proj_SystemsEngineering.html#chatInC
+know more about this project at https://www.engenheiros.pt/~oe84598/4.2.1-chatInC.html
